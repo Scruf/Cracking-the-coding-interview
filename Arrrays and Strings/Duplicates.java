@@ -18,7 +18,7 @@ public class Duplicates{
 	}
 	public static void main(String []args){
 		String str1 = "abbbsscc";
-		
+	
 			System.out.println(removeDuplicate(str1));
 		
 
